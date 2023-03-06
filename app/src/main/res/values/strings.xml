@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrentLocaton</string>
+    <string name="your_location">your location</string>
+    <string name="latitude">latitude</string>
+    <string name="textview">TextView</string>
+    <string name="textvie">TextView</string>
+    <string name="view">TextView</string>
+    <string name="button">Button</string>
+    <string name="latitude1">latitude :</string>
+    <string name="_0_0_0_0_0_0">0_0_0_0_0_0</string>
+    <string name="long2">longitude :</string>
+    <string name="adress">adress :</string>
+    <string name="_0_0_0_0_">0_0_0_0_0_0</string>
+    <string name="street_city_coutry">street_city_coutry</string>
+</resources>
